@@ -19,4 +19,6 @@ sys
 
 Jogo baseado no código do professor Marcos feito com uma temática cômica, o jogador precisa desviar dos chopes envenenados lançados pelo inimigo para ganhar pontos, ao encostar no chope o jogador perde.
 
-	
+Tester: Bernardo da Silva Neuls
+
+RA: 1138654
